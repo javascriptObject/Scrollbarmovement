@@ -2,7 +2,7 @@
 
 效果如下：
 
-![](images/img.gif)
+![](images/img1.gif)
 
 demo code:
 ```
